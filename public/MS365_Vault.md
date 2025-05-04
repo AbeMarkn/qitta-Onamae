@@ -3,7 +3,7 @@ title: MS365_Vault
 tags:
   - 'MS365'
   - 'Personal Vault'
-private: true
+private: false
 updated_at: ''
 id: null
 organization_url_name: null
