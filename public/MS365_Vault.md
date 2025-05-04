@@ -1,7 +1,8 @@
 ---
 title: MS365_Vault
 tags:
-  - ''
+  - 'MS365'
+  - 'Personal Vault'
 private: true
 updated_at: ''
 id: null
