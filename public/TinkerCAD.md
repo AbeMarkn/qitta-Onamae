@@ -1,10 +1,10 @@
 ---
 title: TinkerCAD
 tags:
-  - 'CAD'
+  - CAD
 private: true
-updated_at: ''
-id: null
+updated_at: '2025-05-05T18:05:33+09:00'
+id: db18dc0efffdafbecc1a
 organization_url_name: null
 slide: false
 ignorePublish: false

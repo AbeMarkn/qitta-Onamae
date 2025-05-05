@@ -1,10 +1,10 @@
 ---
 title: Qiita_CLI
 tags:
-  - 'QiitaCLI'
+  - QiitaCLI
 private: true
-updated_at: ''
-id: null
+updated_at: '2025-05-05T18:05:33+09:00'
+id: effa20c2e2de6efc0873
 organization_url_name: null
 slide: false
 ignorePublish: false
