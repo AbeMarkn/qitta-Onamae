@@ -1,11 +1,10 @@
 ---
 title: MS365_Vault
 tags:
-  - 'MS365'
-  - 'Personal Vault'
-private: false
-updated_at: ''
-id: null
+  - MS365
+private: true
+updated_at: '2025-05-05T18:02:25+09:00'
+id: e2211ef278b57fc54c4d
 organization_url_name: null
 slide: false
 ignorePublish: false
